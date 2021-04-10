@@ -1,5 +1,5 @@
 document.getElementById('nama').innerHTML = 'Indra Setyo Wibowo';
-$('nim').html('20190140077')
+$('#nim').html('20190140077');
 $(function() {
     console.log("Hello");
 });
